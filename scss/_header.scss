@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+nav {
+    background-color: #6ea0dd;
+    height: 70px;
+    
+
+
+    div {
+        display: inline-flex;
+        position: absolute;
+        top: 15px;
+    
+
+    
+
+        ul {
+            list-style: none;
+
+        
+            li {
+                display: inline-block;
+                margin-left: 15px;
+                margin-right: 15px;
+                color: white;
+                font-size: 20px;
+                font-family: 'Orbitron', sans-serif;
+
+                img{
+                    position: absolute;
+                    left: 900px;
+                    top: 1px;
+                    
+                }
+
+                
+            }
+        }
+    }
+
+}
